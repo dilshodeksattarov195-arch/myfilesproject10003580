@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncave",
+        "uuid": 28901340,
+        "checksum": "lr1av"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
